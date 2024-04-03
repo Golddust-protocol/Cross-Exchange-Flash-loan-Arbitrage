@@ -82,7 +82,6 @@ After deploying the contract, interact with it using your preferred Ethereum wal
 
 ### Contributors
 
-- [Your Name]
 - [Pavan Ananth Sharma](https://github.com/PavanAnanthSharma)
 - [SabariGanesh-K](https://github.com/SabariGanesh-K)
 
