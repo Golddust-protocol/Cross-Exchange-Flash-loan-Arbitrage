@@ -28,7 +28,7 @@ Follow the steps below to set up and test the cross-exchange arbitrage contract:
 2. Navigate to the project directory:
 
    ```
-   cd Uniswap-Sushiswap-Cross-Exchange-Arbitrage
+   cd Cross-Exchange-Flash-loan-Arbitrage
    ```
 
 3. Install dependencies:
